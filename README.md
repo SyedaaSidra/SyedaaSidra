@@ -1,6 +1,7 @@
+![logo!](https://github.com/sidraRashdi/sidraRashdi/blob/main/SIDRA%20RASHDI%20Web%20Developer%20(1).png)
 <h1 align="center">Hi 👋, I'm Sidra</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-img align="right" alt="SidraRashdi" width="400" src=""
+
 
 - 🌱 I’m currently learning **spring boot**
 

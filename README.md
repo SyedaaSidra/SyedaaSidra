@@ -1,12 +1,12 @@
 ![logo!](https://github.com/sidraRashdi/sidraRashdi/blob/main/SIDRA%20RASHDI%20Web%20Developer%20(1).png)
 <h1 align="center">Hi 👋, I'm Sidra</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Full Stack Developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/sidraRashdi/sidraRashdi/blob/main/github.gif?raw=true"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrarashdi&label=Profile%20views&color=0e75b6&style=flat" alt="sidrarashdi" /> </p>
 
-- 🌱 I’m currently learning **spring boot**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **HTML,CSS,JS,Bootstrap,Mysql,Python**
+- 💬 Ask me about **JS,React,Angular,Python**
 
 - 📫 How to reach me **rashdimuntaha557@gmail.com**
 

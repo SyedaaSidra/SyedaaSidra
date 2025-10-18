@@ -1,7 +1,7 @@
 <!-- 🌟 Unique GitHub Profile for Syedaa Sidra -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Syedaa%20Sidra%20👩‍💻&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<h1 align="center">👋 Hi, I'm Syeda Sidra</h1>
 
 <h3>💻 Backend-Focused Full Stack Developer | Java · Spring Boot · PostgreSQL</h3>
 
@@ -75,7 +75,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+
   
 <h3>✨ Thanks for visiting ✨</h3>
 <p>💡 <b>"Understand deeply. Build simply."</b></p>
